@@ -24,3 +24,13 @@ A fun and interactive console game built using Arduino! This project showcases h
 | Buzzer (optional) | 1    |
 | USB Cable      | 1        |
 | Computer with Arduino IDE | 1 |
+
+
+## Arduino and the lcd 
+
+|   Arduino    |  LCD 128X64  |
+|----------------|----------|
+|     5V     |   VCC    |
+|     SCL    |   SCL or A5  |
+|     SDA    |   SDA or A4  |
+|     GND    |   GND    |
