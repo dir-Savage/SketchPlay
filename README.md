@@ -14,6 +14,7 @@ A fun and interactive console game built using Arduino! This project showcases h
 
 ---
 
+
 ## 🔧 Hardware Requirements
 
 | Component       | Quantity |
@@ -26,6 +27,7 @@ A fun and interactive console game built using Arduino! This project showcases h
 | Computer with Arduino IDE | 1 |
 
 
+
 ## Arduino and the lcd 
 
 |   Arduino    |  LCD 128X64  |
@@ -34,3 +36,4 @@ A fun and interactive console game built using Arduino! This project showcases h
 |     SCL    |   SCL or A5  |
 |     SDA    |   SDA or A4  |
 |     GND    |   GND    |
+
